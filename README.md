@@ -6,4 +6,4 @@ JDSNMF can capture **complex shared latent features from the complex multi-omics
 The model  can be applied a flexible integration for multiple data which does not require matching samples.
 
 # JDSNMF workflow
-<img src="https://user-images.githubusercontent.com/37695581/111054762-6c3e4f00-84b2-11eb-8b46-4beb89c57491.jpg" width="100%" height="100%"> 
+<img src="https://user-images.githubusercontent.com/37695581/111054762-6c3e4f00-84b2-11eb-8b46-4beb89c57491.jpg" width="150%" height="150%"> 
